@@ -1,0 +1,4 @@
+interface:
+  display_name: "Resume Bullet Writer"
+  short_description: "将职责描述改写为突出行动、结果与量化影响的简历要点"
+  default_prompt: "Use $resume-bullet-writer to rewrite these experience notes into strong, truthful resume bullets."
