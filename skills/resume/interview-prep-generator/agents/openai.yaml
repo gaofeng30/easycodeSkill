@@ -1,0 +1,4 @@
+interface:
+  display_name: "Interview Prep Generator"
+  short_description: "根据简历生成 STAR 故事、面试问题以及回答要点"
+  default_prompt: "Use $interview-prep-generator to create interview stories and practice questions from this resume."
