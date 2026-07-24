@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tech Resume Optimizer"
+  short_description: "面向软件与技术岗位强化架构深度、系统规模和业务影响"
+  default_prompt: "Use $tech-resume-optimizer to strengthen the technical depth and impact of this resume."
