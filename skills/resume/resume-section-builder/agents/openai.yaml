@@ -1,0 +1,4 @@
+interface:
+  display_name: "Resume Section Builder"
+  short_description: "按照目标岗位与工作资历构建个人概述、技能以及经历模块"
+  default_prompt: "Use $resume-section-builder to build targeted sections for this resume and JD."
