@@ -1,0 +1,4 @@
+interface:
+  display_name: "Resume Tailoring"
+  short_description: "基于目标岗位定制简历内容，同时确保所有经历真实且可追溯"
+  default_prompt: "Use $resume-tailoring to tailor my existing resume to this role without inventing experience."
