@@ -1,0 +1,4 @@
+interface:
+  display_name: "Job Description Analyzer"
+  short_description: "分析岗位要求、候选人匹配度、能力缺口以及对应的投递策略"
+  default_prompt: "Use $job-description-analyzer to analyze this JD and identify my strongest matches and gaps."
