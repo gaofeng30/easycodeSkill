@@ -1,0 +1,4 @@
+interface:
+  display_name: "Resume ATS Optimizer"
+  short_description: "检查 ATS 兼容性、关键词覆盖程度以及自动筛选风险"
+  default_prompt: "Use $resume-ats-optimizer to check this resume against the target JD for ATS compatibility."
