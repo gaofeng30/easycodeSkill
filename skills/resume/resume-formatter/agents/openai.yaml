@@ -1,0 +1,4 @@
+interface:
+  display_name: "Resume Formatter"
+  short_description: "生成层次清晰、易读且适合 ATS 稳定解析的专业简历版式"
+  default_prompt: "Use $resume-formatter to format this resume into a clean, ATS-friendly layout."
