@@ -1,0 +1,4 @@
+interface:
+  display_name: "Resume Builder"
+  short_description: "根据旧简历、工作材料和目标 JD 生成专业中文简历"
+  default_prompt: "Use $resume-builder to create a professional resume from my existing resume and this JD."
